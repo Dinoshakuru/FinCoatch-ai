@@ -1,0 +1,16 @@
+<SimpleGrid columns={[1,2,4]} spacing={6}>
+  <Stat>
+    <StatLabel>Revenue</StatLabel>
+    <StatNumber>FRw 1,250,000</StatNumber>
+  </Stat>
+
+  <Stat>
+    <StatLabel>Expenses</StatLabel>
+    <StatNumber>FRw 780,000</StatNumber>
+  </Stat>
+
+  <Stat>
+    <StatLabel>Profit</StatLabel>
+    <StatNumber>FRw 470,000</StatNumber>
+  </Stat>
+</SimpleGrid>
