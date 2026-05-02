@@ -1,0 +1,3 @@
+<ChakraProvider theme={theme}>
+  <App />
+</ChakraProvider>
